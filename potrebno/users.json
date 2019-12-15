@@ -1,0 +1,18 @@
+[
+	{
+    "id": "1",
+    "username": "milanv",
+    "password" : "vasovicm",
+		"name": "Milan",
+		"lastname": "Vasovic",
+		"monsters": "1,4,6,14,25,30" 
+	},
+  {
+    "id": "2",
+    "username": "testt",
+    "password": "testict",
+    "name": "Test",
+    "lastname": "Testic",
+    "monsters": "3,7,9,11,16,19,23,27"
+  }
+]

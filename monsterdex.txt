@@ -1,0 +1,32 @@
+Ideja:
+	-Nudi se mogućnost prijave na sistem kao postojeći korisnik ili registracija novog korisnika.
+	-Nakon uspešne prijave prikazuje se profil korisnika sa informacijama, listom čudovišta koja korisnik ima, mogućnost pretrage, brisanja, hvatanja, pregledom svih postojećih čudovišta, odjavom i gašenjem aplikacije.
+	-Korisniku je obezbeđena mogućnost gašenja aplikacije u svakom trenutnku.
+
+Funkcionalnost:
+	-Logovanje
+	-Registracija
+	-Prikaz profila
+	-Izmena profila
+	-Prikaz svih čudovišta
+	-Pretraga
+	-Odabir novog čudovišta
+	-Brisanje čudovišta
+	-Odjava
+	-Gašenje
+
+Napomene:
+	-Treba promeniti učitavanje slika, slike treba da se dobavljaju preko api-a.
+	-Treba promeniti način logovanja, podatke ulogovanog korisnika treba sačuvati u memoriji pa ih po potrebi izvlačiti.
+	-Treba napraviti registraciju novog korisnika.
+	-Treba napraviti pretragu,brisanje i hvatanje čudovišta.
+	-Treba napraviti izmenu profila.
+	-Treba napraviti horizontalni prikaz.
+	-Treba završiti sve funkcije.
+	-Treba srediti dizajn aplikacije.
+
+Problemi:
+	-Rešiti POST zahtev.
+	-Rešiti čuvanje podataka u memoriji.(Time se rešava trenutni bug kada se pokuša sa activity AllMonstersActivity preći na MyProfileActivity aplikacija puca zato sto se podaci o ulogovanom korisniku ne šalju sa tim intentom,
+	 već bi trebalo da se uzimaju iz memorije)
+	-Rešiti podizanje slika na server i dobavljanje u aplikaciji.(Time se rešava hardcode učitavanje slika)

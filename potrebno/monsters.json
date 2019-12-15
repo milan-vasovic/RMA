@@ -1,0 +1,272 @@
+[
+  {
+    "id": "1",
+    "name": "monster1",
+    "type": "water",
+    "subtype": "electric",
+    "abilitys": [ "water-beam","lighting" ],
+    "resorce": "monster1.png",
+    "description": "Monster species 1, type water, subtype electric, abilitys water-beam and lighting"
+  },
+  {
+    "id": "2",
+    "name": "monster2",
+    "type": "grass",
+    "subtype": "fire",
+    "abilitys": [ "leaf-slice","fire-beam" ],
+    "resorce": "monster2.png",
+    "description": "Monster species 1, type grass, subtype fire, abilitys leaf-slice and fire-beam"
+  },
+  {
+    "id": "3",
+    "name": "monster3",
+    "type": "fire",
+    "subtype": "water",
+    "abilitys": [ "fire-beam","water-beam" ],
+    "resorce": "monster3.png",
+    "description": "Monster species 1, type fire, subtype water, abilitys fire-beam and water-beam"
+  },
+  {
+    "id": "4",
+    "name": "monster4",
+    "type": "dark",
+    "subtype": "grass",
+    "abilitys": [ "shadow-beam","posion" ],
+    "resorce": "monster4.png",
+    "description": "Monster species 1, type dark, subtype grass, abilitys shadow-beam and posion"
+  },
+  {
+    "id": "5",
+    "name": "monster5",
+    "type": "stone",
+    "subtype": "ice",
+    "abilitys": [ "stone-fist","ice-beam" ],
+    "resorce": "monster5.png",
+    "description": "Monster species 1, type stone, subtype ice, abilitys stone-fist and ice-beam"
+  },
+  {
+    "id": "6",
+    "name": "monster6",
+    "type": "stone",
+    "subtype": "fire",
+    "abilitys": [ "stone-fist","fire-beam" ],
+    "resorce": "monster6.png",
+    "description": "Monster species 1, type stone, subtype fire, abilitys stone-fist and fire-beam"
+  },
+  {
+    "id": "7",
+    "name": "monster7",
+    "type": "electric",
+    "subtype": "water",
+    "abilitys": [ "lighting","water-beam" ],
+    "resorce": "monster7.png",
+    "description": "Monster species 1, type electric, subtype water, abilitys lighting and water-beam"
+  },
+  {
+    "id": "8",
+    "name": "monster8",
+    "type": "grass",
+    "subtype": "ice",
+    "abilitys": [ "leaf-slice","ice-beam" ],
+    "resorce": "monster8.png",
+    "description": "Monster species 1, type grass, subtype ice, abilitys leaf-slice and ice-beam"
+  },
+  {
+    "id": "9",
+    "name": "monster9",
+    "type": "ghost",
+    "subtype": "water",
+    "abilitys": [ "haunted-srecam","water-beam" ],
+    "resorce": "monster9.png",
+    "description": "Monster species 1, type ghost, subtype water, abilitys haunted-srecam and water-beam"
+  },
+  {
+    "id": "10",
+    "name": "monster10",
+    "type": "lava",
+    "subtype": "electric",
+    "abilitys": [ "lava-beam","lighting" ],
+    "resorce": "monster10.png",
+    "description": "Monster species 1, type lava, subtype electric, abilitys lava-beam and lighting"
+  },
+  {
+    "id": "11",
+    "name": "monster11",
+    "type": "fire",
+    "subtype": "water",
+    "abilitys": [ "fire-beam", "water-beam" ],
+    "resorce": "monster11.png",
+    "description": "Monster species 2, type fire, subtype water, abilitys fire-beam and water-beam"
+  },
+  {
+    "id": "12",
+    "name": "monster12",
+    "type": "electric",
+    "subtype": "grass",
+    "abilitys": [ "lighting","leaf-slice" ],
+    "resorce": "monster12.png",
+    "description": "Monster species 2, type electric, subtype grass, abilitys lighting and leaf-slice"
+  },
+  {
+    "id": "13",
+    "name": "monster13",
+    "type": "water",
+    "subtype": "fire",
+    "abilitys": [ "water-beam","fire-beam" ],
+    "resorce": "monster13.png",
+    "description": "Monster species 2, type water, subtype fire, abilitys water-beam and fire-beam"
+  },
+  {
+    "id": "14",
+    "name": "monster14",
+    "type": "dark",
+    "subtype": "water",
+    "abilitys": [ "shadow-beam","water-beam" ],
+    "resorce": "monster14.png",
+    "description": "Monster species 2, type dark, subtype water, abilitys shadow-beam and water-beam"
+  },
+  {
+    "id": "15",
+    "name": "monster15",
+    "type": "grass",
+    "subtype": "dark",
+    "abilitys": [ "leaf-slice","shadow-beam" ],
+    "resorce": "monster15.png",
+    "description": "Monster species 2, type grass, subtype dark, abilitys leaf-slice and shadow-beam"
+  },
+  {
+    "id": "16",
+    "name": "monster16",
+    "type": "stone",
+    "subtype": "electric",
+    "abilitys": [ "stone-fist","lighting" ],
+    "resorce": "monster16.png",
+    "description": "Monster species 2, type stone, subtype electric, abilitys stone-fist and lighting"
+  },
+  {
+    "id": "17",
+    "name": "monster17",
+    "type": "lava",
+    "subtype": "ice",
+    "abilitys": [ "lava-beam","ice-beam" ],
+    "resorce": "monster17.png",
+    "description": "Monster species 2, type lava, subtype ice, abilitys lava-beam and ice-beam"
+  },
+  {
+    "id": "18",
+    "name": "monster18",
+    "type": "grass",
+    "subtype": "lava",
+    "abilitys": [ "leaf-slice","fire-beam" ],
+    "resorce": "monster18.png",
+    "description": "Monster species 2, type grass, subtype lava, abilitys leaf-slice and fire-beam"
+  },
+  {
+    "id": "19",
+    "name": "monster19",
+    "type": "stone",
+    "subtype": "dark",
+    "abilitys": [ "stone-slice","shadow-beam" ],
+    "resorce": "monster19.png",
+    "description": "Monster species 2, type stone, subtype dark, abilitys stone-fist and shadow-beam"
+  },
+  {
+    "id": "20",
+    "name": "monster20",
+    "type": "water",
+    "subtype": "electric",
+    "abilitys": [ "water-beam","lighting" ],
+    "resorce": "monster20.png",
+    "description": "Monster species 2, type water, subtype electric, abilitys water-beam and lighting"
+  },
+  {
+    "id": "21",
+    "name": "monster21",
+    "type": "fire",
+    "subtype": "electric",
+    "abilitys": [ "fire-beam","lighting" ],
+    "resorce": "monster21.png",
+    "description": "Monster species 3, type fire, subtype electric, abilitys fire-beam and lighting"
+  },
+  {
+    "id": "22",
+    "name": "monster22",
+    "type": "water",
+    "subtype": "electric",
+    "abilitys": [ "water-beam","lighting" ],
+    "resorce": "monster22.png",
+    "description": "Monster species 3, type water, subtype electric, abilitys water-beam and lighting"
+  },
+  {
+    "id": "23",
+    "name": "monster23",
+    "type": "dark",
+    "subtype": "grass",
+    "abilitys": [ "sahdow-beam","leaf-slice" ],
+    "resorce": "monster23.png",
+    "description": "Monster species 3, type dark, subtype grass, abilitys sahdow-beam and leaf-slice"
+  },
+  {
+    "id": "24",
+    "name": "monster24",
+    "type": "lava",
+    "subtype": "water",
+    "abilitys": [ "lava-beam","water-beam" ],
+    "resorce": "monster24.png",
+    "description": "Monster species 3, type lava, subtype water, abilitys lava-beam and water-beam"
+  },
+  {
+    "id": "25",
+    "name": "monster25",
+    "type": "stone",
+    "subtype": "fire",
+    "abilitys": [ "stone-fist","fire-beam" ],
+    "resorce": "monster25.png",
+    "description": "Monster species 3, type stone, subtype fire, abilitys stone-fist and fire-beam"
+  },
+  {
+    "id": "26",
+    "name": "monster26",
+    "type": "electric",
+    "subtype": "grass",
+    "abilitys": [ "lighting","leaf-slice" ],
+    "resorce": "monster26.png",
+    "description": "Monster species 3, type electric, subtype grass, abilitys lighting and leaf-slice"
+  },
+  {
+    "id": "27",
+    "name": "monster27",
+    "type": "electric",
+    "subtype": "ice",
+    "abilitys": [ "lighting","ice-beam" ],
+    "resorce": "monster27.png",
+    "description": "Monster species 3, type electric, subtype ice, abilitys lighting and ice-beam"
+  },
+  {
+    "id": "28",
+    "name": "monster28",
+    "type": "ice",
+    "subtype": "dark",
+    "abilitys": [ "ice-beam","shadow-beam" ],
+    "resorce": "monster28.png",
+    "description": "Monster species 3, type ice, subtype dark, abilitys ice-beam and shadow-beam"
+  },
+  {
+    "id": "29",
+    "name": "monster29",
+    "type": "stone",
+    "subtype": "grass",
+    "abilitys": [ "stone-fist","leaf-slice" ],
+    "resorce": "monster29.png",
+    "description": "Monster species 3, type stone, subtype grass, abilitys stone-fist and leaf-slice"
+  },
+  {
+    "id": "30",
+    "name": "monster30",
+    "type": "lava",
+    "subtype": "ice",
+    "abilitys": [ "lava-beam","ice-beam" ],
+    "resorce": "monster30.png",
+    "description": "Monster species 3, type lava, subtype ice, abilitys lava-beam and ice-beam"
+  }
+]
